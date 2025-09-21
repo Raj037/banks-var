@@ -18,4 +18,4 @@
 - Rolling exception rate vs target (5%/1%).
 - Regime flags using rolling volatility or GARCH.
 
-The var_results contains the result and the plots folder contains the plot for each bank with 95 and 99% confidence
+The var_results.csv contains the result and the plots folder contains the plot for each bank with 95 and 99% confidence
